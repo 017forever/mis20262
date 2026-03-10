@@ -1,4 +1,4 @@
-from mis import mis2a,mis2b
+from test1 import calculate_n
 
-mis2a()
-mis2b()
+result = calculate_n()
+print(f"結果是: {result}")
